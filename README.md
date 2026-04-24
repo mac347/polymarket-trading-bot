@@ -1,6 +1,5 @@
 # Polymarket Trading Bot
 
-
 <p align="center">
   <a href="https://bitbash.def" target="_blank">
     <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/bitbash.png" alt="Bitbash Banner" width="100%"></a>
